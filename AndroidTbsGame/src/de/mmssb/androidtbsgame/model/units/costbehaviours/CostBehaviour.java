@@ -1,4 +1,4 @@
-package de.mmssb.androidtbsgame.model.units;
+package de.mmssb.androidtbsgame.model.units.costbehaviours;
 
 public interface CostBehaviour {
 

@@ -1,6 +1,5 @@
 package de.mmssb.androidtbsgame.model.units.costbehaviours;
 
-import de.mmssb.androidtbsgame.model.units.CostBehaviour;
 
 public class Expensive implements CostBehaviour {
 

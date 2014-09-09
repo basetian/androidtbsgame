@@ -1,6 +1,5 @@
 package de.mmssb.androidtbsgame.model.units.healthbehaviours;
 
-import de.mmssb.androidtbsgame.model.units.HealthBehaviour;
 
 public class Mortal implements HealthBehaviour {
 

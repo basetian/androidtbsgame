@@ -1,6 +1,5 @@
 package de.mmssb.androidtbsgame.model.units.actionpointbehaviours;
 
-import de.mmssb.androidtbsgame.model.units.ActionPointBehaviour;
 
 public class Normal implements ActionPointBehaviour {
 
